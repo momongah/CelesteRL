@@ -1,0 +1,6 @@
+- Name: CelesteRLBridge
+  Version: 0.1.0
+  DLL: bin/CelesteRLBridge.dll
+  Dependencies:
+    - Name: EverestCore
+      Version: 1.6662.0
